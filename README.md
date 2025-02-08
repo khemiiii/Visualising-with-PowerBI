@@ -1,1 +1,1 @@
-# Analysing fictitious data from the European Union(EU) Food Safety Standard Agency portal to assist a local food export company to overcome various regulatory hurdles to be able to penetrate the EU market.
+# Conducted an analysis of synthetic data from the European Union (EU) Food Safety Standard Agency portal to support a local food export company in navigating regulatory compliance challenges and facilitating market entry into the EU.
